@@ -1,0 +1,52 @@
+# Byte-compiled / cache files (Python)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock # optional — remove this if you want to lock deps
+
+# Nix
+result/
+*.drv
+*.gcno
+.nix-channels
+.nix-profile
+.nix-defexpr
+.cache/
+.direnv/
+.envrc
+
+# VSCode
+.vscode/
+.history/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
