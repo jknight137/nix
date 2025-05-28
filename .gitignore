@@ -50,3 +50,10 @@ desktop.ini
 *.bak
 *.swp
 *.swo
+
+# C#
+csharp/bin/
+csharp/obj/
+
+# Kotlin
+*.jar
